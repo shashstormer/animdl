@@ -89,7 +89,7 @@ def iter_packages(
             )
 
 
-def resolve(packages, *, prefix="[animdl/utils/win32-build-inquirer]"):
+def resolve(packages, *, prefix="[animdl2/utils/win32-build-inquirer]"):
     import subprocess
 
     import httpx
