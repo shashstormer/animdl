@@ -7,7 +7,7 @@ name = "animdl2"
 version = "1.7.28"
 description = "A highly efficient, fast, powerful and light-weight anime downloader and streamer for your favorite anime."
 readme = "readme.txt"
-authors = [ "justfoolingaround <kr.justfoolingaround@gmail.com>", "shashstormer <shashstormer@shashstorm.in>"]
+authors = [ "justfoolingaround <kr.justfoolingaround@gmail.com>", "shashstormer <shashstormer@shashstorm.in>" ]
 license = "GPL-3.0-only"
 
 [tool.poetry.dependencies]

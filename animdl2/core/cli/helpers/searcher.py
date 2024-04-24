@@ -6,8 +6,8 @@ from urllib.parse import unquote
 
 import lxml.html as htmlparser
 
-from animdl.core.codebase.providers.allanime import gql_api as allanime_gql_api
-from animdl.utils.powertools import ctx
+from animdl2.core.codebase.providers.allanime import gql_api as allanime_gql_api
+from animdl2.utils.powertools import ctx
 
 from ...codebase.helpers import uwu
 from ...codebase.providers.kamyroll.api import get_api

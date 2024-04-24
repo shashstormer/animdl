@@ -1,6 +1,6 @@
 import yarl
 
-from animdl.utils.optopt import regexlib
+from animdl2.utils.optopt import regexlib
 
 VRV_RESPONSE_REGEX = regexlib.compile(
     r"^#EXT-X-STREAM-INF:.*?RESOLUTION=\d+x(?P<resolution>\d+).*?\n(.+?)$",

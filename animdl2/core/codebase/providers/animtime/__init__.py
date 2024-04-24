@@ -1,7 +1,7 @@
 import functools
 from functools import partial
 
-from animdl.utils.optopt import regexlib
+from animdl2.utils.optopt import regexlib
 
 from ....config import ANIMTIME
 from ...helpers import construct_site_based_regex

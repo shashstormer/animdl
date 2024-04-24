@@ -1,7 +1,7 @@
 import functools
 from math import ceil
 
-from animdl.utils import optopt
+from animdl2.utils import optopt
 
 from ....config import ANIMEPAHE
 from ...helpers import construct_site_based_regex

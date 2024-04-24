@@ -5,7 +5,7 @@ try:
 except importlib.metadata.PackageNotFoundError:
     import pathlib
 
-    from animdl.utils.optopt import regexlib
+    from animdl2.utils.optopt import regexlib
 
     __core__ = regexlib.search(
         r'name = "animdl"\nversion = "(.+?)"',

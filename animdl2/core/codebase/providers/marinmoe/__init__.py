@@ -1,7 +1,7 @@
 import functools
 
-from animdl.utils import optopt
-from animdl.utils.powertools import ctx
+from animdl2.utils import optopt
+from animdl2.utils.powertools import ctx
 
 from ....config import MARIN
 from ...helpers import construct_site_based_regex

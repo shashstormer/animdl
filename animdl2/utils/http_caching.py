@@ -52,7 +52,7 @@ class CachingHTTPXClient(httpx.Client):
 
     Usage:
 
-    >>> from animdl.utils.http_caching import CachingHTTPXClient
+    >>> from animdl2.utils.http_caching import CachingHTTPXClient
     >>> import time
     >>> client = CachingHTTPXClient("cache.db", "cache.lock")
     >>> initial_time = time.time()

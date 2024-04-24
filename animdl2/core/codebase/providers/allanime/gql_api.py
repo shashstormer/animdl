@@ -1,4 +1,4 @@
-from animdl.utils import optopt
+from animdl2.utils import optopt
 
 ENDPOINT = "https://api.allanime.day/api"
 

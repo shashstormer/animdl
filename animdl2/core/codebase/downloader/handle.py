@@ -7,7 +7,7 @@ import typing
 import httpx
 from tqdm import tqdm
 
-from animdl.utils import media_downloader, serverfiles
+from animdl2.utils import media_downloader, serverfiles
 
 from ...config import (
     FFMPEG_EXECUTABLE,

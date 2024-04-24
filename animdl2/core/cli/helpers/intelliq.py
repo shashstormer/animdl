@@ -15,7 +15,7 @@ from collections import namedtuple
 from operator import eq, ge, gt, le, lt
 from typing import Generator, Iterable, List, Optional, Tuple, TypeVar, Union
 
-from animdl.utils.optopt import regexlib
+from animdl2.utils.optopt import regexlib
 
 PARENTHESES = (
     ("(", ")"),

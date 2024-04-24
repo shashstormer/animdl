@@ -2,7 +2,7 @@ import logging
 
 import httpx
 
-from animdl import utils
+from animdl2 import utils
 
 from .exit_codes import INTERNET_ISSUE
 
